@@ -1,0 +1,16 @@
+{
+  "name": "vaccine-availability-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "nodemailer": "^6.6.3"
+  }
+}
